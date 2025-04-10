@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Gossip",
+    "situation": "You overhear your friend talking bad about another classmate. They laugh and ask you what you think about that person.",
+    "choices": [
+      "Laugh along so you don't seem awkward.",
+      "Change the subject and avoid talking about anyone.",
+      "Say, \u201cI don\u2019t think it\u2019s right to talk about others like that.\u201d"
+    ],
+    "correctChoice": 2,
+    "response": "Jesus teaches us to treat others how we want to be treated. He wouldn\u2019t join in on gossip.",
+    "verse": "Luke 6:31 - \u201cDo to others as you would have them do to you.\u201d"
+  },
+  {
+    "title": "The Left-Out Kid",
+    "situation": "There\u2019s a new student at school who sits alone at lunch. Your friends ignore them.",
+    "choices": [
+      "Sit with them and try to make them feel welcome.",
+      "Smile from a distance but stay with your friends.",
+      "Let the teacher handle it."
+    ],
+    "correctChoice": 0,
+    "response": "Jesus always reached out to the lonely and made people feel seen.",
+    "verse": "Romans 15:7 - \u201cAccept one another, then, just as Christ accepted you.\u201d"
+  },
+  {
+    "title": "The Lost Game",
+    "situation": "You lose in a big game and feel like blaming your teammate.",
+    "choices": [
+      "Blame your teammate loudly so others agree.",
+      "Take a breath and let it go.",
+      "Talk to your teammate privately and express your feelings kindly."
+    ],
+    "correctChoice": 2,
+    "response": "Jesus teaches us to handle conflict with love and self-control.",
+    "verse": "James 1:19 - \u201cEveryone should be quick to listen, slow to speak and slow to become angry.\u201d"
+  },
+  {
+    "title": "The Cheat Sheet",
+    "situation": "A friend offers you the answers to tomorrow\u2019s test.",
+    "choices": [
+      "Say yes but promise not to do it again.",
+      "Say no and let your teacher know what\u2019s going on.",
+      "Say no and study hard instead."
+    ],
+    "correctChoice": 2,
+    "response": "Jesus wants us to be honest and faithful in the small things.",
+    "verse": "Luke 16:10 - \u201cWhoever can be trusted with very little can also be trusted with much.\u201d"
+  },
+  {
+    "title": "The Sibling Fight",
+    "situation": "Your younger sibling breaks your favorite thing. You're furious.",
+    "choices": [
+      "Yell at them and slam the door.",
+      "Walk away and stay mad for the rest of the day.",
+      "Take time to calm down, then forgive them."
+    ],
+    "correctChoice": 2,
+    "response": "Jesus teaches forgiveness, even when we\u2019re hurt.",
+    "verse": "Luke 6:37 - \u201cForgive, and you will be forgiven.\u201d"
+  },
+  {
+    "title": "The Honest Mistake",
+    "situation": "You accidentally break something at school and no one saw you.",
+    "choices": [
+      "Say nothing and hope no one notices.",
+      "Tell your teacher the truth and take responsibility.",
+      "Blame someone else to avoid trouble."
+    ],
+    "correctChoice": 1,
+    "response": "Jesus is proud when we tell the truth and own our mistakes.",
+    "verse": "Proverbs 12:22 - \u201cThe Lord delights in people who are trustworthy.\u201d"
+  },
+  {
+    "title": "The Unpopular Kid",
+    "situation": "Your friends tease a kid who doesn\u2019t dress like everyone else.",
+    "choices": [
+      "Tell your friends to stop and be kind.",
+      "Stay silent and pretend not to notice.",
+      "Laugh just a little so they don\u2019t turn on you."
+    ],
+    "correctChoice": 0,
+    "response": "Jesus stood up for people who were left out or different.",
+    "verse": "Proverbs 31:8 - \u201cSpeak up for those who cannot speak for themselves.\u201d"
+  }
+]
